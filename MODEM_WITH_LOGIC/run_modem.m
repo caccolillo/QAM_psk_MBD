@@ -1,7 +1,7 @@
 % MATLAB Script to open and run a Simulink model named 'mdl'
 
 % Define the model name
-modelName = 'subsystem_v11';
+modelName = 'COHERENT_MODEM_WITH_LOGIC';
 
 fcarrier = 20000;
 sample_time = 1/(100*fcarrier);
